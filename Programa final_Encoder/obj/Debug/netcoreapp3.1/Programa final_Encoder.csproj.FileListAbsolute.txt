@@ -1,0 +1,26 @@
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.csprojAssemblyReference.cache
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.AssemblyInfoInputs.cache
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.AssemblyInfo.cs
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.csproj.CoreCompileInputs.cache
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.exe
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.deps.json
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.runtimeconfig.json
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.runtimeconfig.dev.json
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.dll
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.pdb
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.dll
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.pdb
+C:\Users\rafae\.vscode\Programas vs\Programa final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.genruntimeconfig.cache
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.exe
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.deps.json
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.runtimeconfig.json
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.runtimeconfig.dev.json
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.dll
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\bin\Debug\netcoreapp3.1\Programa final_Encoder.pdb
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.csprojAssemblyReference.cache
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.AssemblyInfoInputs.cache
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.AssemblyInfo.cs
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.csproj.CoreCompileInputs.cache
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.dll
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.pdb
+F:\Downloads\Proyecto Final Programacion II\Programa Final_Encoder\obj\Debug\netcoreapp3.1\Programa final_Encoder.genruntimeconfig.cache
