@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eY2HxvdHeUQTUHQ2OyWK+AkiqewXj/sZ7Go364G7nPjHNCQbImPdcTs1U+TZ2Q4dF4mR770OXrSVsACi9gDeUg==",
+  "success": true,
+  "projectFilePath": "F:\\Downloads\\Proyecto Final Programacion II\\Programa fina\\Programa fina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daneris sanchez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

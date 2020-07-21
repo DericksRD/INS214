@@ -1,0 +1,26 @@
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.csprojAssemblyReference.cache
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.AssemblyInfoInputs.cache
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.AssemblyInfo.cs
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.csproj.CoreCompileInputs.cache
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.exe
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.deps.json
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.runtimeconfig.json
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.runtimeconfig.dev.json
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.dll
+C:\Users\rafae\.vscode\Programas vs\programa fina\bin\Debug\netcoreapp3.1\Programa fina.pdb
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.dll
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.pdb
+C:\Users\rafae\.vscode\Programas vs\programa fina\obj\Debug\netcoreapp3.1\Programa fina.genruntimeconfig.cache
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.exe
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.deps.json
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.runtimeconfig.json
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.runtimeconfig.dev.json
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.dll
+F:\Downloads\Proyecto Final Programacion II\Programa fina\bin\Debug\netcoreapp3.1\Programa fina.pdb
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.csprojAssemblyReference.cache
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.AssemblyInfoInputs.cache
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.AssemblyInfo.cs
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.csproj.CoreCompileInputs.cache
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.dll
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.pdb
+F:\Downloads\Proyecto Final Programacion II\Programa fina\obj\Debug\netcoreapp3.1\Programa fina.genruntimeconfig.cache
